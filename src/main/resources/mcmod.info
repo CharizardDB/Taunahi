@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Taunahi V2",
+    "description": "best collection of scripts",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Me"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
